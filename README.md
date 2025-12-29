@@ -129,6 +129,6 @@ It does **not** provide financial advice, investment recommendations, or price p
 
 ##  Author
 
-This project was developed as a **self-learning data analysis project** to build skills relevant to **data analytics, business intelligence, and MBA-oriented roles**.
+This project was developed as a **self-learning data analysis project** to build skills relevant to **data analytics and business intelligence**.
 
 
