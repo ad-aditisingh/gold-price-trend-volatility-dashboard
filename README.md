@@ -76,16 +76,21 @@ Periods of heightened volatility often correspond to broader market uncertainty,
 ##  Repository Structure
 gold-price-trend-volatility-dashboard/
 │
+
 ├── data/
+
 │ └── gold_price_india.csv
 
 
 ├── dashboard/
+
 │ └── gold.pbix
 
 
 ├── screenshots/
+
 │ ├── trend_analysis.png
+
 │ └── volatility_analysis.png
 
 
